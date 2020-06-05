@@ -1,4 +1,4 @@
-
+<?php
 <html>
   <head>
   <meta http-equiv="content-type" content="text/html; charset=windows-1250">
@@ -16,3 +16,5 @@
   <p>I don&rsquo;t feel as if I were an innovator, I go in-depth, losing myself in flavours that come from tradition, trying to bring a new form to life while respecting each kicks.</p>
   </body>
   </html>
+    
+    ?>
